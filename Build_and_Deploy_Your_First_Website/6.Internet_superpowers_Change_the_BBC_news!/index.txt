@@ -1,0 +1,20 @@
+배운점
+크롬 우클릭 -> inspect : DOM을 찾을수 있음
+
+underneath : 
+Underneath는 '~의 밑(아래)에'라는 뜻을 가진 전치사이자 부사로, 
+under나 below보다 공간적으로 바로 아래에 붙어 있거나, 
+표면 아래에 숨겨져 있는 상황을 강조하는 표현입니다. 
+주로 물리적인 위치나 내면의 감정을 나타낼 때 사용
+
+Nutshell :
+Nutshell은 견과류(호두 등)의 딱딱한 '껍질'을 뜻하며, 
+숙어인 "in a nutshell" 형태로 쓰여 "아주 간결하게", 
+"한마디로 요약해서"라는 의미를 가집니다. 
+견과류 알맹이만 남기듯 핵심만 줄여 말할 때 사용하며, 
+유사한 표현으로는 simply put, to sum up 등이 있습니다
+
+
+
+srcset : https://www.heropy.dev/p/5Gl8hX
+https://developer.mozilla.org/en-US/docs/Web/API/HTMLImageElement/srcset
